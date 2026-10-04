@@ -1,5 +1,3 @@
-# flight_delay_analysis
-````markdown
 # US Flight Delay Analysis — 2015
 
 An end-to-end flight operations analysis using **PostgreSQL, SQL, and Power BI**, based on US flight data for 2015.
